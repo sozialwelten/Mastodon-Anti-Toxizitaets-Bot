@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Sensible Daten
+.env
+
+# Bot State
+bot_state.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

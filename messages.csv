@@ -1,0 +1,101 @@
+id,category,text
+001,engagement_bait,"💭 'Kommentier mit deinem Sternzeichen!' - Engagement Bait nutzt simple Fragen, um Algorithmen zu füttern, nicht um echte Gespräche zu starten. Qualität > Quantität ✨"
+002,engagement_bait,🎣 Posts die mit 'Ignorieren werden 90% der Leute' starten? Das ist Engagement Bait. Echte Inhalte brauchen keine emotionale Erpressung.
+003,engagement_bait,"🌟 'Like = Ja, Kommentar = Nein' - diese Polls sind oft nur Reichweiten-Farming. Deine Meinung verdient mehr als einen Klick!"
+004,rage_bait,🔥 Absichtlich falsche Aussagen posten damit Leute korrigieren? Das ist Rage Bait. Echte Diskussionen entstehen durch Ehrlichkeit.
+005,rage_bait,😤 Wenn jemand bewusst provoziert um Empörung zu ernten: Don't feed the trolls. Deine Energie ist wertvoller als deren Reichweite.
+006,rage_bait,💢 'Unpopuläre Meinung:' + absurd provokante These = klassischer Rage Bait. Echte Meinungen kommen mit Argumenten statt Schockeffekten.
+007,doomscrolling,📱 Merkst du wie du schon 30 Min scrollst? Algorithmen optimieren auf Endlosschleifen. Setz dir bewusst Grenzen - deine mentale Gesundheit dankt dir 💚
+008,doomscrolling,🌙 Spät abends noch am Scrollen? Negative News vor dem Schlaf beeinflussen deine Stimmung. Versuch's mal mit bewusstem Zeitlimit.
+009,doomscrolling,⏰ Wenn du automatisch öffnest ohne zu wissen warum: Das ist by design. Nimm dir bewusste Pausen - die Timeline läuft nicht weg!
+010,clickbait,🎯 'Du wirst nicht glauben was dann passiert!' - Clickbait verspricht viel und liefert wenig. Gute Inhalte brauchen keine Neugier-Manipulation.
+011,clickbait,📰 Überschriften die mehr Fragen aufwerfen als beantworten? Meistens steckt dahinter weniger als versprochen. Sei skeptisch!
+012,clickbait,✨ Wenn die Überschrift spektakulärer ist als der Inhalt: Das ist Clickbait. Teile lieber Inhalte die halten was sie versprechen.
+013,brigading,🚨 Koordinierte Massenangriffe auf Profile schaden echtem Diskurs. Auch wenn du jemandem nicht zustimmst - Respekt kostet nichts.
+014,brigading,"👥 'Alle, geht zu diesem Post und...' - Brigading verwandelt Plattformen in Schlachtfelder. Lass Diskussionen organisch entstehen."
+015,brigading,⚠️ Wenn eine Gruppe gezielt jemanden angreift: Das ist Mobbing nicht Meinungsfreiheit. Sei nicht Teil davon.
+016,doxxing,🔒 Private Infos teilen um jemandem zu schaden ist nie ok - auch nicht bei 'den Bösen'. Zwei Falsche ergeben kein Richtig.
+017,doxxing,🛡️ Jemandes Adresse oder Arbeitgeber öffentlich machen? Das ist Doxxing und gefährlich. Online-Streit rechtfertigt das nie.
+018,doxxing,⚠️ Selbst 'öffentliche' Infos gezielt zu sammeln und zu verbreiten kann Doxxing sein. Kontext matters!
+019,concern_trolling,🎭 'Ich mache mir nur Sorgen um...' gefolgt von Unterstellungen? Das ist Concern Trolling. Echte Besorgnis kommt ohne versteckte Agenda.
+020,concern_trolling,💭 Vorgetäuschte Empathie um zu manipulieren erkennt man an Unaufrichtigkeit. Vertraue deinem Bauchgefühl.
+021,concern_trolling,🤔 Wenn die 'Sorge' nur in eine negative Richtung geht und Alternativen ignoriert werden - wahrscheinlich nicht echt gemeint.
+022,sealioning,🦭 Endloses 'Ich stelle nur Fragen' um zu erschöpfen? Das ist Sealioning. Du musst nicht jede scheinbar höfliche Frage beantworten.
+023,sealioning,"🔄 Wenn jemand immer wieder 'Beweise' fordert aber jede Antwort ignoriert - das ist keine echte Neugier. Es ist ok, Gespräche zu beenden."
+024,sealioning,💬 'Nur mal aus Interesse...' in endloser Wiederholung ist emotionale Arbeit ohne Wertschätzung. Deine Zeit ist wertvoll!
+025,sockpuppeting,🎪 Mehrere Fake-Accounts um Unterstützung vorzutäuschen? Das ist Sockpuppeting. Echte Meinungen brauchen keine künstliche Verstärkung.
+026,sockpuppeting,👻 Wenn 'verschiedene Personen' verdächtig ähnlich argumentieren und zeitgleich auftauchen - oft steckt eine Person dahinter.
+027,sockpuppeting,🎭 Sich selbst mit Alt-Accounts zustimmen ist wie sich selbst High-Five geben - peinlich und nicht überzeugend.
+028,cancel_culture,⚖️ Fehler ≠ Unvergebbar. Unverhältnismäßige Reaktionen auf kleine Fehler schaden allen. Kontext und Verhältnismäßigkeit sind wichtig.
+029,cancel_culture,🌱 Menschen können wachsen und lernen. Jemanden für immer abzuschreiben verhindert positive Entwicklung.
+030,cancel_culture,💭 Öffentliche Ächtung sollte keine Massenunterhaltung sein. Frag dich: Geht's um Gerechtigkeit oder um Drama?
+031,virtue_signaling,🎪 Moralische Überlegenheit zur Schau stellen ohne echte Taten? Das ist Virtue Signaling. Taten sagen mehr als performative Posts.
+032,virtue_signaling,✨ Wenn das öffentliche Statement wichtiger ist als das private Handeln - das ist oberflächlicher Aktivismus.
+033,virtue_signaling,💚 Echtes Engagement erkennt man an Konsistenz nicht an viral gehenden Posts. Quality over Visibility.
+034,gatekeeping,🚪 'Du bist kein echter Fan wenn...' - Gatekeeping macht Communities toxisch statt inklusiv. Sei die Person die andere willkommen heißt!
+035,gatekeeping,🎮 Neue Leute aus Hobbys ausschließen? Das killt Communities. Jede*r hat mal angefangen - auch du!
+036,gatekeeping,💡 'Du verstehst das nicht weil...' - Wissen weitergeben statt horten macht alle klüger. Sei Brücke nicht Mauer.
+037,main_character,🎬 Nicht alles muss ein Drama sein mit dir im Zentrum. Main Character Syndrome erschöpft dein Umfeld. Balance ist ok!
+038,main_character,🌟 Dein Leben ist wichtig - aber andere haben auch Geschichten. Raum für andere lassen macht dich nicht weniger wichtig.
+039,main_character,💭 Wenn jeder Post eine Performance ist statt authentisch: Das ist anstrengend für alle. Real > Perfekt.
+040,astroturfing,🌱 'Spontane' Bewegung die verdächtig professionell aussieht? Könnte Astroturfing sein. Echte Graswurzeln wachsen organisch.
+041,astroturfing,🎭 Wenn eine 'Bürgerbewegung' zu gut organisiert und finanziert wirkt - hinterfrag die Quellen.
+042,astroturfing,💰 Bezahlte Kampagnen die sich als authentisch tarnen manipulieren öffentliche Meinung. Sei skeptisch bei perfekten Botschaften.
+043,flamebaiting,🔥 Provokante Aussagen nur um einen Flame War zu starten? Das ist Flamebaiting. Echte Kontroversen entstehen aus Überzeugungen nicht aus Langeweile.
+044,flamebaiting,💥 'Pineapple on pizza sucks' in einer Food-Community posten nur für Drama? Lass es. Es gibt genug echte Konflikte da draußen.
+045,flamebaiting,😈 Bewusst heiße Themen anzünden und dann zusehen wie andere streiten ist feige. Steh zu deinen Meinungen oder lass es ganz.
+046,flamebaiting,🎯 In jede friedliche Diskussion den einen trigger-Satz werfen? Das ist Flamebaiting. Konstruktive Debatten > Chaos.
+047,flamebaiting,⚡ 'Nur um mal den Elefanten im Raum anzusprechen:' + explosive These = klassisches Flamebaiting. Ehrliche Diskussionen starten anders.
+048,dogwhistling,🐕 Dogwhistling nutzt harmlos klingende Codes für problematische Botschaften. Achte auf den Subtext und wer mitnickt.
+049,dogwhistling,🔍 Wenn bestimmte Begriffe in bestimmten Kreisen Zustimmung ernten aber offiziell 'unschuldig' sind - das könnte Dogwhistling sein.
+050,dogwhistling,🎭 'Ich sage ja nur...' gefolgt von plausible deniability? Oft steckt mehr dahinter. Kontext und Pattern recognition helfen.
+051,dogwhistling,⚠️ Dogwhistles funktionieren weil sie für Außenstehende harmlos klingen. Lerne die Codes deiner Community zu erkennen.
+052,dogwhistling,👂 Wenn die 'falschen' Leute zu enthusiastisch auf einen scheinbar harmlosen Post reagieren - frag dich warum.
+053,allgemein,💚 Social Media kann toxisch sein - muss es aber nicht. Deine Interaktionen formen die Kultur. Sei der Change!
+054,allgemein,🌈 Algorithmen belohnen Kontroverse nicht Qualität. Bewusst gegen den Strom zu schwimmen ist manchmal die gesündeste Option.
+055,allgemein,⏸️ Es ist ok Pausen zu machen. FOMO ist real aber deine mentale Gesundheit ist realer. Das Internet wartet.
+056,allgemein,🤝 Hinter jedem Avatar ist ein Mensch. Behandle andere so wie du vor ihnen stehend behandeln würdest.
+057,allgemein,🎯 Nicht jeder schlechte Take verdient deine Energie. Strategic ignorance ist manchmal die beste Response.
+058,allgemein,💭 Bevor du antwortest: Atme. Wird diese Interaktion in einer Woche noch wichtig sein?
+059,allgemein,🌟 Du bist nicht verpflichtet auf alles zu reagieren. Selective engagement schützt deine Energie.
+060,allgemein,🔇 Der Mute-Button ist dein Freund. Deine Timeline deine Regeln - kein schlechtes Gewissen nötig.
+061,engagement_bait,🧲 'Tag 3 Freunde die...' ist emotionale Manipulation für Algorithmen. Echte Verbindungen entstehen nicht durch Kettenbriefe 2.0
+062,engagement_bait,📊 Umfragen ohne echtes Interesse an Ergebnissen? Pure Engagement-Optimierung. Deine Meinung ist mehr wert als Statistik-Futter.
+063,rage_bait,🎣 'Change my mind' + extreme Position = Rage Bait Klassiker. Echter Austausch braucht Offenheit keine Kampfansage.
+064,rage_bait,😡 Hot Takes die absichtlich falsch sind um Korrekturen zu farmen? Das ist intellektuell unehrlich und verschwendet Zeit.
+065,doomscrolling,🌀 Wenn schlechte News dich lähmen statt mobilisieren: Das ist Doomscrolling. Informiert sein ≠ konstant konsumieren.
+066,doomscrolling,💤 Morgens als erstes doomscrolling? Das prägt deinen ganzen Tag. Versuche eine positive Morning Routine - auch nur 5 Minuten helfen.
+067,clickbait,🪤 Numbered lists die nie die ganze Story erzählen? Clickbait-Taktik. Gute Informationen verstecken sich nicht hinter Klicks.
+068,clickbait,🎪 'Experten hassen diesen Trick!' - wenn es zu gut klingt um wahr zu sein ist es wahrscheinlich Clickbait.
+069,brigading,⚔️ 'Lasst uns diesem Account mal zeigen...' ist keine aktivistische Aktion sondern koordiniertes Mobbing. Don't.
+070,brigading,🌊 Selbst wenn jemand falsch liegt rechtfertigt das kein Brigading. Argumente > Masse.
+071,doxxing,🎯 Screenshots von privaten Profilen ohne Einwilligung teilen kann der erste Schritt zu Doxxing sein. Frag dich: Muss das öffentlich sein?
+072,doxxing,🔐 'Aber die Info war öffentlich!' - das rechtfertigt nicht gezieltes Sammeln und Weaponizing. Respektiere Grenzen.
+073,concern_trolling,🐍 'Ich bin ja selbst [marginalisierte Gruppe] aber...' gefolgt von Group-Bashing? Concern Trolling mit extra Schritten.
+074,concern_trolling,😇 Wenn 'konstruktive Kritik' nur destruktiv ist und nie Lösungen bietet - das ist getarntes Trollen.
+075,sealioning,📚 'Kannst du mir 50 Studien zeigen?' ist oft keine echte Wissenssuche. Google existiert. Deine Zeit ist wertvoll.
+076,sealioning,🤔 Ehrliche Fragen vs Sealioning? Echte Neugier akzeptiert Antworten. Sealions verschieben ständig die Torpfosten.
+077,sockpuppeting,🪆 Accounts die sich gegenseitig retweeten und verdächtig synchron argumentieren? Riecht nach Sockpuppets.
+078,sockpuppeting,👤 'Viele Leute sagen...' wenn es eigentlich nur eine Person mit vielen Accounts ist. Qualität > künstliche Quantität.
+079,cancel_culture,🎭 Öffentliche Accountability ist wichtig - aber es gibt einen Unterschied zwischen Konsequenzen und Zerstörung.
+080,cancel_culture,🔄 Restorative Justice > Performative Cancellation. Wachstum ermöglichen ist nachhaltiger als Ausschluss.
+081,virtue_signaling,🎗️ Awareness-Posts sind gut - aber ohne Aktion sind sie hohle Gesten. Walk the talk!
+082,virtue_signaling,📣 Wenn die Message wichtiger ist als die Sache selbst: Das ist Virtue Signaling. Substanz > Optics.
+083,gatekeeping,📚 'Echte Fans kennen...' nein. Fans sind Fans unabhängig von Trivia-Wissen. Lass Leute Dinge genießen!
+084,gatekeeping,🚧 Einstiegshürden künstlich hochsetzen hilft niemandem. Je inklusiver desto lebendiger die Community.
+085,main_character,🎞️ Nicht jeder Moment muss performativ sein. Private Freuden sind genauso wertvoll wie gepostete.
+086,main_character,🎬 Wenn alles Content wird verliert Leben an Authentizität. It's ok to just exist ohne Audience.
+087,astroturfing,🎪 Hashtag-Trends die aus dem Nichts kommen mit perfekten talking points? Könnte organisch sein - oder Astroturfing.
+088,astroturfing,🤖 Wenn 'normale User' verdächtig ähnliche Formulierungen nutzen ist Skepsis angebracht. Pattern recognition hilft.
+089,flamebaiting,🧨 'Hot take incoming:' ist meist eine Warnung dass jetzt absichtlich provoziert wird. Bait erkennen = nicht anbeißen.
+090,flamebaiting,🎣 In friedliche Threads flamebait werfen macht dich nicht interesting - nur anstrengend.
+091,dogwhistling,🔔 'Globalist' 'Urban youth' 'Traditional values' - manche Begriffe haben Subtexte. Achte darauf wer welche Codes nutzt.
+092,dogwhistling,🎯 Dogwhistles sind gefährlich weil sie Hass normalisieren während sie unschuldig aussehen. Lern sie zu erkennen!
+093,allgemein,🌱 Dein Mental Health Feed ist wichtiger als ein vollständiger News-Feed. Kuratiere bewusst wen und was du konsumierst.
+094,allgemein,🎨 Kreativität > Kontroverse. Die besten Communities entstehen durch Kollaboration nicht durch Conflict.
+095,allgemein,🕊️ Manchmal ist die beste Response gar keine Response. Not every hill is worth dying on.
+096,allgemein,💫 Authentizität schlägt Performance. Menschen verbinden sich mit Echtem nicht mit Perfektion.
+097,allgemein,🌍 Globale Vernetzung ist wertvoll - aber lokale Communities nicht vergessen. Balance matters!
+098,allgemein,🎭 Online-Persona ≠ ganzer Mensch. Gib dir und anderen Raum für Komplexität.
+099,allgemein,🛡️ Boundaries setzen ist nicht unhöflich - es ist Selbstfürsorge. Du darfst Nein sagen.
+100,allgemein,🌸 Kleine positive Interaktionen summieren sich. Ein nettes Wort kann jemandes Tag verändern - sei die positive Energie!
