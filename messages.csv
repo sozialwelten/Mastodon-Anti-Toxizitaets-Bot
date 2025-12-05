@@ -119,3 +119,43 @@ id,category,text
 118,agenda_pushing,💡 Deine Überzeugung ist wichtig - aber nicht jede Konversation ist die Plattform dafür. Kontext und Relevanz matters!
 119,agenda_pushing,🎭 Wenn die Agenda wichtiger wird als ehrlicher Austausch verliert jeder. Offenheit > Missionierung.
 120,agenda_pushing,🔄 Ständig die gleichen talking points? Das ist Agenda Pushing. Echte Diskussionen entwickeln sich und passen sich an.
+121,misinformation,❗ Nicht jede Grafik mit Zahlen ist wahr. Misinformation nutzt oft pseudo-wissenschaftliches Design um seriös zu wirken.
+122,misinformation,🔍 Wenn eine Behauptung nirgendwo belegt wird außer im gleichen Post – skeptisch bleiben!
+123,misinformation,📉 Vereinfachte Charts die komplexe Themen falsch darstellen? Klassische Misinformation-Methode.
+124,fearmongering,😱 Wenn Posts Angst verkaufen statt Fakten – das ist Fearmongering. Panik ≠ Information.
+125,fearmongering,🔥 'Alle sind in Gefahr!' ohne Quellen? Emotionssteuerung statt Aufklärung.
+126,fearmongering,⚠️ Angst-Posts triggern Instinkte statt Denken. Immer checken: Wer profitiert?
+127,parasocial,🤝 Influencer sind keine Freunde – auch wenn sie so reden. Parasoziale Nähe kann täuschen.
+128,parasocial,💬 'Ich erzähl euch alles' wirkt intim, ist aber oft strategische Markenpflege.
+129,parasocial,🌐 Je mehr du glaubst jemanden zu kennen, desto leichter wirst du beeinflusst.
+130,echo_chamber,🔄 Wenn du nur noch Posts siehst die deine Meinung bestätigen – Echo Chamber Alarm.
+131,echo_chamber,📢 Gleichgesinnte Communities sind gut, aber Homogenität killt kritisches Denken.
+132,echo_chamber,🎧 Algorithmen bauen Echo Chambers – du musst aktiv dagegen kuratieren.
+133,spamouflage,🕵️ 'Normale User' mit seltsamer Postingfrequenz? Könnte Spamouflage sein.
+134,spamouflage,🌐 Koordinierte Fake-Accounts, die diskutieren spielen – oft politisch motiviert.
+135,spamouflage,👥 Wenn ganze Threads wie orchestriert wirken: Vielleicht sind sie es.
+136,toxic_positivity,✨ 'Nur positiv denken!' kann Probleme unsichtbar machen. Toxic Positivity ist nicht hilfreich.
+137,toxic_positivity,🌈 Gefühle wegwischen mit 'Cheer up' ist nicht Support sondern Silencing.
+138,toxic_positivity,💭 Echtes Wohlbefinden entsteht durch Akzeptanz nicht durch Zuckerguss.
+139,overexposure,📸 Nicht alles muss geteilt werden. Overexposure erzeugt Druck und mindert Privatsphäre.
+140,overexposure,🎥 Dauerhafte Selbstinszenierung macht dich zur Marke – aber nicht glücklich.
+141,overexposure,🔍 Je mehr du teilst, desto mehr interpretieren andere. Grenzen sind gesund.
+142,idolizing_influencers,🌟 Influencer zu idealisieren vergisst: Social Media ist curated, nicht real.
+143,idolizing_influencers,💎 Niemand lebt 24/7 perfekt. Vergleiche sind toxisch.
+144,idolizing_influencers,🎭 Influencer zeigen Highlights — vergleiche nicht mit deinem Alltag.
+145,disinformation_tactics,🧩 Disinformation mischt Wahrheit + Lüge für maximale Verwirrung. Halbwahrheiten sind gefährlich.
+146,disinformation_tactics,👁️ Dramatische Behauptung + angebliche 'Zensur' = klassisches Disinfo-Pattern.
+147,disinformation_tactics,🎣 Polarisierung ist ein Feature von Disinfo – nicht Bug.
+148,emotional_manipulation,💔 'Wenn du das nicht teilst, bist du herzlos!' – klares Manipulations-Signal.
+149,emotional_manipulation,😭 Übertriebene Storytelling-Emotionen können gezielt Handlungen auslösen.
+150,emotional_manipulation,🧠 Starke Emotion = weniger kritisches Denken. Genau das soll erreicht werden.
+151,edutainment_misuse,🎬 Edutainment ist super – aber populäre Creator vereinfachen oft zu stark.
+152,edutainment_misuse,📚 Snappy Erklärvideos sind kein Ersatz für echte Quellen.
+153,edutainment_misuse,🧪 Wissenschaft in 15 Sekunden? Klingt gut, ist aber selten akkurat.
+154,agenda_pushing,🗂️ Indie-Varianten von Agenda Pushing: Memes, Reels, 'lustige' Vergleiche – gleiche Message, neuer Mantel.
+155,clickbait,📈 Thumbnail mit rotem Kreis + Pfeil? Klassisches Clickbait-Design.
+156,main_character,🎭 'POV: ich' alles? Vielleicht bist du nicht in jedem Moment der Protagonist.
+157,flamebaiting,🔥 Provokation ist Content-Strategie – nicht Meinung.
+158,concern_trolling,🤷 'Ich frage ja nur aus Sorge…' während man provoziert? Klassischer Move.
+159,doomscrolling,📉 Wenn dein Stress steigt aber du trotzdem weiterscrollst – dein Gehirn ist im Alarmmodus.
+160,allgemein,💬 Digitale Hygiene ist wie Zähneputzen: kurz, regelmäßig, sehr wichtig.
